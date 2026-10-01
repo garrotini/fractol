@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e8f0dd0a-e798-4f8b-af21-0166b238ae0c
+
 # fractol
 
 A fractal explorer written in C using MiniLibX. Renders the Mandelbrot set,
@@ -84,6 +88,9 @@ I build a few shell scripts to setup the VM, and documented it here: https://git
 
 
 ((HERE GOES THE FRACTOL VIDEO))
+
+[![fractol.mp4](https://github.com/user-attachments/assets/85f97751-1326-4b5a-9b2a-a6a9d1258aee)](https://github.com/user-attachments/assets/82320d83-c51e-4658-84b6-e0db648acf42)
+
 
 
 
