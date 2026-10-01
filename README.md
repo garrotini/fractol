@@ -3,14 +3,13 @@
 https://github.com/user-attachments/assets/e8f0dd0a-e798-4f8b-af21-0166b238ae0c
 
 This demo was made using a Debian 12 VM, that I create for developing graphic projects for 42 as I needed to use somehow old libraries and dependencies.
+
 I build a few shell scripts to setup the VM, and documented it here: https://github.com/garrotini/set_deb12
 
 ## Description
 
 A fractal explorer written in C using MiniLibX. Renders the Mandelbrot set,
 custom Julia sets, and preset Julia variants with smooth HSV coloring.
-
-This is a project from the 42 school curriculum: [cmanuel-](https://profile.intra.42.fr/users/cmanuel-) — 42
 
 
 ## Features
